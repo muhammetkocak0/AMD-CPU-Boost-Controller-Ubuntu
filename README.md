@@ -31,7 +31,7 @@ To install the AMD Turbo Boost Indicator on Ubuntu, follow these steps:
     python3 indicator.py
     ```
 ## Configuring Startup
-- **Using Startup Applications (Recommended for Ubuntu Desktop)**: Ubuntu provides a user-friendly way to manage startup applications through a GUI:
+**Using Startup Applications (Recommended for Ubuntu Desktop)**: Ubuntu provides a user-friendly way to manage startup applications through a GUI:
 - Press Super (Windows key) and search for "Startup Applications".
 - Click "Add" and enter the following details:
 - Name: AMD Turbo Boost Indicator
@@ -39,7 +39,7 @@ To install the AMD Turbo Boost Indicator on Ubuntu, follow these steps:
 - Comment: Controls AMD CPU Turbo Boost feature
 - Replace /path/to/indicator.py with the actual path to the script. Click "Add" and then "Close" to save your settings.
 
-- **Systemd Method (Advanced Users)**: For users comfortable with systemd, you can set up a service to manage the application:
+**Systemd Method (Advanced Users)**: For users comfortable with systemd, you can set up a service to manage the application:
 1. Create a systemd service file:
     ```bash
     sudo nano /etc/systemd/system/amd-indicator.service
