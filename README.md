@@ -1,4 +1,4 @@
-# AMD Turbo Boost Controller
+# AMD Turbo Boost Controller for Ubuntu
 ![Screencast-from-2024-06-23-21-04-15](https://github.com/muhammetkocak0/AMD-CPU-Boost-Controller-Ubuntu/assets/76121221/9c4c5631-a182-479c-99fc-e0d822244200)
 ## Introduction
 AMD Turbo Boost Controller is a system tray application designed specifically for Ubuntu systems. It allows users to monitor and control the AMD CPU turbo boost feature directly from the system tray.
